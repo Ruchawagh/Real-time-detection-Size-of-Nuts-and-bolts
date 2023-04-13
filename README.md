@@ -47,7 +47,7 @@ Other prerequisites:
 
 ## Results
 
-![Result](images/result2.png?raw=true "Title")
+![Result](images/result.png?raw=true "Title")
 
 ## Authors
 
