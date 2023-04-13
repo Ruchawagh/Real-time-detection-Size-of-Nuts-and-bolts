@@ -47,11 +47,11 @@ Other prerequisites:
 
 ## Results
 
-![Result](images/img2.jpg?raw=true "Title")
+![Result](images/
 
 ## Authors
 
-* **Shashank Sharma** 
+* Rucha wagh
 
 ## Acknowledgments
 
