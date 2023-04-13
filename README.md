@@ -47,7 +47,7 @@ Other prerequisites:
 
 ## Results
 
-![Result](images/bolts and nuts.png?raw=true "title")
+![Result](images/result2.png?raw=true "Title")
 
 ## Authors
 
