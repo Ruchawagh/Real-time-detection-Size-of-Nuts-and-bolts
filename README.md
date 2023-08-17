@@ -29,7 +29,7 @@ For any other reference object provide actual width of the object. (change line 
 
 ## Results
 
-![Result](images/result.png?raw=true "Title")
+![Result](images/result2.png?raw=true "Title")
 
 ## Author
 
