@@ -8,24 +8,6 @@ For any other reference object provide actual width of the object. (change line 
 1. Shadow effect: use dark braground
 2. Object boundry: use contrasting background
 
-## Getting Started
-
-### Prerequisites
-Python 3
-Pip
-OpenCV
-Numpy
-
-### Installing
-For python and pip installation follow this blog
-1. For windows
-https://www.howtogeek.com/197947/how-to-install-python-on-windows/
-2. For Linux
-https://docs.python-guide.org/starting/install3/linux/
-
-Other prerequisites:
-- pip install numpy
-- pip install opencv-python
 
 ## Algorithm
 1. Image pre-processing
@@ -49,11 +31,11 @@ Other prerequisites:
 
 ![Result](images/result.png?raw=true "Title")
 
-## Authors
+## Author
 
 * Rucha wagh
 
-## Acknowledgments
+
 
 * https://www.pyimagesearch.com/
 
